@@ -1,4 +1,4 @@
-name = input()
+name = input('Введите своё имя: ')
 print("Привет", name, '!')
 
 x = int(input('Введите первое число: '))
